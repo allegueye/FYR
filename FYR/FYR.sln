@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYR.WebUI", "FYR.WebUI\FYR.WebUI.csproj", "{39943E6E-5A17-44B9-B311-574B6E1E904A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYR.Domain", "FYR.Domain\FYR.Domain.csproj", "{9CF81563-3E8F-45DF-BC79-238E15A28904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYR.UnitTests", "FYR.UnitTests\FYR.UnitTests.csproj", "{833CCC3F-F001-48EE-85DA-8655224F61BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39943E6E-5A17-44B9-B311-574B6E1E904A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39943E6E-5A17-44B9-B311-574B6E1E904A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39943E6E-5A17-44B9-B311-574B6E1E904A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39943E6E-5A17-44B9-B311-574B6E1E904A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF81563-3E8F-45DF-BC79-238E15A28904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF81563-3E8F-45DF-BC79-238E15A28904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF81563-3E8F-45DF-BC79-238E15A28904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF81563-3E8F-45DF-BC79-238E15A28904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833CCC3F-F001-48EE-85DA-8655224F61BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833CCC3F-F001-48EE-85DA-8655224F61BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833CCC3F-F001-48EE-85DA-8655224F61BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833CCC3F-F001-48EE-85DA-8655224F61BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

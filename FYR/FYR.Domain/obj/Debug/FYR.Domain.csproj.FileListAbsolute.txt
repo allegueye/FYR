@@ -1,0 +1,5 @@
+C:\Users\alle\Documents\Visual Studio 2012\Projects\FYR\FYR.Domain\bin\Debug\FYR.Domain.dll
+C:\Users\alle\Documents\Visual Studio 2012\Projects\FYR\FYR.Domain\bin\Debug\FYR.Domain.pdb
+C:\Users\alle\Documents\Visual Studio 2012\Projects\FYR\FYR.Domain\obj\Debug\FYR.Domain.dll
+C:\Users\alle\Documents\Visual Studio 2012\Projects\FYR\FYR.Domain\obj\Debug\FYR.Domain.pdb
+C:\Users\alle\Documents\Visual Studio 2012\Projects\FYR\FYR.Domain\obj\Debug\FYR.Domain.csprojResolveAssemblyReference.cache
